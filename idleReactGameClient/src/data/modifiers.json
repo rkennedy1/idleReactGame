@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Level 1",
+        "initialPrice": 10,
+        "modifier": 1,
+        "initialModifier": 0,
+        "amountOwned": 0
+    },
+    {
+        "name": "Level 2",
+        "initialPrice": 20,
+        "modifier": 2,
+        "initialModifier": 0,
+        "amountOwned": 0
+    },
+    {
+        "name": "Level 3",
+        "initialPrice": 30,
+        "modifier": 3,
+        "initialModifier": 0,
+        "amountOwned": 0
+    },
+    {
+        "name": "Level 4",
+        "initialPrice": 40,
+        "modifier": 4,
+        "initialModifier": 0,
+        "amountOwned": 0
+    }
+]   
